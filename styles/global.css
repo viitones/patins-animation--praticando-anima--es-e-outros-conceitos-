@@ -41,6 +41,7 @@ h2 {
   line-height: 1.2;
 }
 
-body {
-  background-color: deeppink;
+a {
+  text-decoration: none;
+  color: inherit;
 }
